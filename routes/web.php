@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/{vue_capture?}', function () {
+    return view('index');
+})->where('vue_capture','(.*)')->name('main_app');

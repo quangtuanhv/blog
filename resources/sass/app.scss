@@ -8,7 +8,16 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-}
+// Theme
+@import '../theme/styles/category.css';
+@import '../theme/styles/category_responsive.css';
+@import '../theme/styles/contact.css';
+@import '../theme/styles/contact_responsive.css';
+@import '../theme/styles/main_styles.css';
+@import '../theme/styles/post.css';
+@import '../theme/styles/post_nosidebar.css';
+@import '../theme/styles/post_nosidebar_responsive.css';
+@import '../theme/styles/post_responsive.css';
+@import '../theme/styles/regular.css';
+@import '../theme/styles/regular_responsive.css';
+@import '../theme/styles/responsive.css';
