@@ -1701,6 +1701,15 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -1714,173 +1723,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -3582,6 +3424,25 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "\n.home[data-v-4fb95116]\r\n{\r\n\twidth: 100%;\r\n\theight: 100vh;\n}\n.home_content[data-v-4fb95116]\r\n{\r\n\tposition: relative;\r\n\tmax-width: 100%;\n}\r\n", ""]);
+
+// exports
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/home/HomePage.vue?vue&type=style&index=0&id=349c1c23&scoped=true&lang=css&":
 /*!*******************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/home/HomePage.vue?vue&type=style&index=0&id=349c1c23&scoped=true&lang=css& ***!
@@ -3594,7 +3455,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "\n.home[data-v-349c1c23]\n{\n\twidth: 100%;\n\theight: 100vh;\n}\n", ""]);
+exports.push([module.i, "\n.home[data-v-349c1c23]\r\n{\r\n\twidth: 100%;\r\n\theight: 100vh;\n}\r\n", ""]);
 
 // exports
 
@@ -4078,6 +3939,36 @@ process.umask = function() { return 0; };
 }(typeof self === "undefined" ? typeof global === "undefined" ? this : global : self));
 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../process/browser.js */ "./node_modules/process/browser.js")))
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader??ref--6-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-2!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& */ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
 
 /***/ }),
 
@@ -4728,10 +4619,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&":
-/*!******************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116& ***!
-  \******************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true& ***!
+  \******************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4755,7 +4646,7 @@ var staticRenderFns = [
         staticClass: "home_background parallax-window",
         attrs: {
           "data-parallax": "scroll",
-          "data-image-src": "images/regular.jpg",
+          "data-image-src": "theme/images/regular.jpg",
           "data-speed": "0.8"
         }
       }),
@@ -8532,168 +8423,219 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", [
+    _c("header", { staticClass: "header" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "header_content d-flex flex-row align-items-center justify-content-start"
+              },
+              [
+                _vm._m(0),
+                _vm._v(" "),
+                _c("nav", { staticClass: "main_nav" }, [
+                  _c("ul", [
+                    _c(
+                      "li",
+                      { staticClass: "active" },
+                      [
+                        _c(
+                          "router-link",
+                          { attrs: { to: { name: "home_page" } } },
+                          [_vm._v("Home")]
+                        )
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _vm._m(1),
+                    _vm._v(" "),
+                    _vm._m(2),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c(
+                          "router-link",
+                          { attrs: { to: { name: "contact_page" } } },
+                          [_vm._v("Contact")]
+                        )
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c(
+                          "router-link",
+                          { attrs: { to: { name: "detail_category_page" } } },
+                          [_vm._v("detail category")]
+                        )
+                      ],
+                      1
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "li",
+                      [
+                        _c(
+                          "router-link",
+                          { attrs: { to: { name: "detail_post_page" } } },
+                          [_vm._v("detail post")]
+                        )
+                      ],
+                      1
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _vm._m(3),
+                _vm._v(" "),
+                _vm._m(4)
+              ]
+            )
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _vm._m(5)
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("header", { staticClass: "header" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col" }, [
-              _c(
-                "div",
-                {
-                  staticClass:
-                    "header_content d-flex flex-row align-items-center justify-content-start"
-                },
-                [
-                  _c("div", { staticClass: "logo" }, [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("avision")])
-                  ]),
-                  _vm._v(" "),
-                  _c("nav", { staticClass: "main_nav" }, [
-                    _c("ul", [
-                      _c("li", { staticClass: "active" }, [
-                        _c("a", { attrs: { href: "index.html" } }, [
-                          _vm._v("Home")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c("a", { attrs: { href: "#" } }, [_vm._v("Fashion")])
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c("a", { attrs: { href: "#" } }, [_vm._v("Gadgets")])
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c("a", { attrs: { href: "#" } }, [_vm._v("Lifestyle")])
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c("a", { attrs: { href: "#" } }, [_vm._v("Video")])
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c("a", { attrs: { href: "contact.html" } }, [
-                          _vm._v("Contact")
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "search_container ml-auto" }, [
-                    _c("div", { staticClass: "weather" }, [
-                      _c("div", { staticClass: "temperature" }, [
-                        _vm._v("+10°")
-                      ]),
-                      _vm._v(" "),
-                      _c("img", {
-                        staticClass: "weather_icon",
-                        attrs: { src: "images/cloud.png", alt: "" }
-                      })
-                    ]),
-                    _vm._v(" "),
-                    _c("form", { attrs: { action: "#" } }, [
-                      _c("input", {
-                        staticClass: "header_search_input",
-                        attrs: {
-                          type: "search",
-                          required: "required",
-                          placeholder: "Type to Search..."
-                        }
-                      }),
-                      _vm._v(" "),
-                      _c("img", {
-                        staticClass: "header_search_icon",
-                        attrs: { src: "images/search.png", alt: "" }
-                      })
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "hamburger ml-auto menu_mm" }, [
-                    _c("i", {
-                      staticClass: "fa fa-bars trans_200 menu_mm",
-                      attrs: { "aria-hidden": "true" }
-                    })
-                  ])
-                ]
-              )
+    return _c("div", { staticClass: "logo" }, [
+      _c("a", { attrs: { href: "#" } }, [_vm._v("V-Young")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Fashion")])])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Gadgets")])])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "search_container ml-auto" }, [
+      _c("div", { staticClass: "weather" }, [
+        _c("div", { staticClass: "temperature" }, [_vm._v("+10°")]),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "weather_icon",
+          attrs: { src: "images/cloud.png", alt: "" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("form", { attrs: { action: "#" } }, [
+        _c("input", {
+          staticClass: "header_search_input",
+          attrs: {
+            type: "search",
+            required: "required",
+            placeholder: "Type to Search..."
+          }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "header_search_icon",
+          attrs: { src: "images/search.png", alt: "" }
+        })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "hamburger ml-auto menu_mm" }, [
+      _c("i", {
+        staticClass: "fa fa-bars trans_200 menu_mm",
+        attrs: { "aria-hidden": "true" }
+      })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass:
+          "menu d-flex flex-column align-items-end justify-content-start text-right menu_mm trans_400"
+      },
+      [
+        _c("div", { staticClass: "menu_close_container" }, [
+          _c("div", { staticClass: "menu_close" }, [_c("div"), _c("div")])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "logo menu_mm" }, [
+          _c("a", { attrs: { href: "#" } }, [_vm._v("Avision")])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "search" }, [
+          _c("form", { attrs: { action: "#" } }, [
+            _c("input", {
+              staticClass: "header_search_input menu_mm",
+              attrs: {
+                type: "search",
+                required: "required",
+                placeholder: "Type to Search..."
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "header_search_icon menu_mm",
+              attrs: { src: "images/search_2.png", alt: "" }
+            })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("nav", { staticClass: "menu_nav" }, [
+          _c("ul", { staticClass: "menu_mm" }, [
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "index.html" } }, [_vm._v("home")])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "#" } }, [_vm._v("Fashion")])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "#" } }, [_vm._v("Gadgets")])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "#" } }, [_vm._v("Lifestyle")])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "#" } }, [_vm._v("Video")])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "menu_mm" }, [
+              _c("a", { attrs: { href: "contact.html" } }, [_vm._v("Contact")])
             ])
           ])
         ])
-      ]),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass:
-            "menu d-flex flex-column align-items-end justify-content-start text-right menu_mm trans_400"
-        },
-        [
-          _c("div", { staticClass: "menu_close_container" }, [
-            _c("div", { staticClass: "menu_close" }, [_c("div"), _c("div")])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "logo menu_mm" }, [
-            _c("a", { attrs: { href: "#" } }, [_vm._v("Avision")])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "search" }, [
-            _c("form", { attrs: { action: "#" } }, [
-              _c("input", {
-                staticClass: "header_search_input menu_mm",
-                attrs: {
-                  type: "search",
-                  required: "required",
-                  placeholder: "Type to Search..."
-                }
-              }),
-              _vm._v(" "),
-              _c("img", {
-                staticClass: "header_search_icon menu_mm",
-                attrs: { src: "images/search_2.png", alt: "" }
-              })
-            ])
-          ]),
-          _vm._v(" "),
-          _c("nav", { staticClass: "menu_nav" }, [
-            _c("ul", { staticClass: "menu_mm" }, [
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "index.html" } }, [_vm._v("home")])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Fashion")])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Gadgets")])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Lifestyle")])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("Video")])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "menu_mm" }, [
-                _c("a", { attrs: { href: "contact.html" } }, [
-                  _vm._v("Contact")
-                ])
-              ])
-            ])
-          ])
-        ]
-      )
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -8717,284 +8659,286 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "page_content" }, [
-    _c("div", { staticClass: "container" }, [
-      _c("div", { staticClass: "row row-lg-eq-height" }, [
-        _vm._m(0),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-3" }, [
-          _c("div", { staticClass: "sidebar" }, [
-            _c("div", { staticClass: "sidebar_background" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "sidebar_section" }, [
-              _c("div", { staticClass: "sidebar_title_container" }, [
-                _c("div", { staticClass: "sidebar_title" }, [
-                  _vm._v("Top Stories")
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "sidebar_slider_nav" }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "custom_nav_container sidebar_slider_nav_container"
-                    },
-                    [
-                      _c(
-                        "div",
-                        { staticClass: "custom_prev custom_prev_top" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
+  return _c("div", [
+    _vm._m(0),
+    _vm._v(" "),
+    _c("div", { staticClass: "page_content" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row row-lg-eq-height" }, [
+          _vm._m(1),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-3" }, [
+            _c("div", { staticClass: "sidebar" }, [
+              _c("div", { staticClass: "sidebar_background" }),
+              _vm._v(" "),
+              _c("div", { staticClass: "sidebar_section" }, [
+                _c("div", { staticClass: "sidebar_title_container" }, [
+                  _c("div", { staticClass: "sidebar_title" }, [
+                    _vm._v("Top Stories")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "sidebar_slider_nav" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "custom_nav_container sidebar_slider_nav_container"
+                      },
+                      [
+                        _c(
+                          "div",
+                          { staticClass: "custom_prev custom_prev_top" },
+                          [
+                            _c(
+                              "svg",
+                              {
                                 attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
                                 }
-                              })
-                            ]
-                          )
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _vm._m(1),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "custom_next custom_next_top" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _vm._m(2),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          { staticClass: "custom_next custom_next_top" },
+                          [
+                            _c(
+                              "svg",
+                              {
                                 attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
                                 }
-                              })
-                            ]
-                          )
-                        ]
-                      )
-                    ]
-                  )
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    )
+                  ])
                 ])
               ]),
               _vm._v(" "),
-              _vm._m(2)
-            ]),
-            _vm._v(" "),
-            _vm._m(3),
-            _vm._v(" "),
-            _c("div", { staticClass: "sidebar_section newest_videos" }, [
-              _c("div", { staticClass: "sidebar_title_container" }, [
-                _c("div", { staticClass: "sidebar_title" }, [
-                  _vm._v("Newest Videos")
+              _vm._m(3),
+              _vm._v(" "),
+              _c("div", { staticClass: "sidebar_section newest_videos" }, [
+                _c("div", { staticClass: "sidebar_title_container" }, [
+                  _c("div", { staticClass: "sidebar_title" }, [
+                    _vm._v("Newest Videos")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "sidebar_slider_nav" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "custom_nav_container sidebar_slider_nav_container"
+                      },
+                      [
+                        _c(
+                          "div",
+                          { staticClass: "custom_prev custom_prev_vid" },
+                          [
+                            _c(
+                              "svg",
+                              {
+                                attrs: {
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
+                                }
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _vm._m(4),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          { staticClass: "custom_next custom_next_vid" },
+                          [
+                            _c(
+                              "svg",
+                              {
+                                attrs: {
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
+                                }
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    )
+                  ])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "sidebar_slider_nav" }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "custom_nav_container sidebar_slider_nav_container"
-                    },
-                    [
-                      _c(
-                        "div",
-                        { staticClass: "custom_prev custom_prev_vid" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
-                                attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
-                                }
-                              })
-                            ]
-                          )
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _vm._m(4),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "custom_next custom_next_vid" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
-                                attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
-                                }
-                              })
-                            ]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ])
+                _vm._m(5)
               ]),
               _vm._v(" "),
-              _vm._m(5)
-            ]),
-            _vm._v(" "),
-            _vm._m(6),
-            _vm._v(" "),
-            _c("div", { staticClass: "sidebar_section future_events" }, [
-              _c("div", { staticClass: "sidebar_title_container" }, [
-                _c("div", { staticClass: "sidebar_title" }, [
-                  _vm._v("Future Events")
+              _vm._m(6),
+              _vm._v(" "),
+              _c("div", { staticClass: "sidebar_section future_events" }, [
+                _c("div", { staticClass: "sidebar_title_container" }, [
+                  _c("div", { staticClass: "sidebar_title" }, [
+                    _vm._v("Future Events")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "sidebar_slider_nav" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "custom_nav_container sidebar_slider_nav_container"
+                      },
+                      [
+                        _c(
+                          "div",
+                          { staticClass: "custom_prev custom_prev_events" },
+                          [
+                            _c(
+                              "svg",
+                              {
+                                attrs: {
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
+                                }
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _vm._m(7),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          { staticClass: "custom_next custom_next_events" },
+                          [
+                            _c(
+                              "svg",
+                              {
+                                attrs: {
+                                  version: "1.1",
+                                  xmlns: "http://www.w3.org/2000/svg",
+                                  "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                                  x: "0px",
+                                  y: "0px",
+                                  width: "7px",
+                                  height: "12px",
+                                  viewBox: "0 0 7 12",
+                                  "enable-background": "new 0 0 7 12",
+                                  "xml:space": "preserve"
+                                }
+                              },
+                              [
+                                _c("polyline", {
+                                  attrs: {
+                                    fill: "#bebebe",
+                                    points:
+                                      "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
+                                  }
+                                })
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    )
+                  ])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "sidebar_slider_nav" }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "custom_nav_container sidebar_slider_nav_container"
-                    },
-                    [
-                      _c(
-                        "div",
-                        { staticClass: "custom_prev custom_prev_events" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
-                                attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "0,5.61 5.609,0 7,0 7,1.438 2.438,6 7,10.563 7,12 5.609,12 -0.002,6.39 "
-                                }
-                              })
-                            ]
-                          )
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _vm._m(7),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "custom_next custom_next_events" },
-                        [
-                          _c(
-                            "svg",
-                            {
-                              attrs: {
-                                version: "1.1",
-                                xmlns: "http://www.w3.org/2000/svg",
-                                "xmlns:xlink": "http://www.w3.org/1999/xlink",
-                                x: "0px",
-                                y: "0px",
-                                width: "7px",
-                                height: "12px",
-                                viewBox: "0 0 7 12",
-                                "enable-background": "new 0 0 7 12",
-                                "xml:space": "preserve"
-                              }
-                            },
-                            [
-                              _c("polyline", {
-                                attrs: {
-                                  fill: "#bebebe",
-                                  points:
-                                    "6.998,6.39 1.389,12 -0.002,12 -0.002,10.562 4.561,6 -0.002,1.438 -0.002,0 1.389,0 7,5.61 "
-                                }
-                              })
-                            ]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _vm._m(8)
+                _vm._m(8)
+              ])
             ])
           ])
         ])
@@ -9003,6 +8947,37 @@ var render = function() {
   ])
 }
 var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "home" }, [
+      _c("div", {
+        staticClass: "home_background parallax-window",
+        attrs: {
+          "data-parallax": "scroll",
+          "data-image-src": "/theme/images/post.jpg",
+          "data-speed": "0.8"
+        }
+      }),
+      _vm._v(" "),
+      _c("div", { staticClass: "home_content" }, [
+        _c("div", { staticClass: "post_category trans_200" }, [
+          _c(
+            "a",
+            { staticClass: "trans_200", attrs: { href: "category.html" } },
+            [_vm._v("sport")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "post_title" }, [
+          _vm._v(
+            "How Did van Gogh’s Turbulent Mind Depict One of the Most Complex Concepts in Physics?"
+          )
+        ])
+      ])
+    ])
+  },
   function() {
     var _vm = this
     var _h = _vm.$createElement
@@ -9018,7 +8993,9 @@ var staticRenderFns = [
           [
             _c("div", { staticClass: "author_image" }, [
               _c("div", [
-                _c("img", { attrs: { src: "images/author.jpg", alt: "" } })
+                _c("img", {
+                  attrs: { src: "/theme/images/author.jpg", alt: "" }
+                })
               ])
             ]),
             _vm._v(" "),
@@ -9070,7 +9047,9 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("figure", [
-            _c("img", { attrs: { src: "images/post_image.jpg", alt: "" } }),
+            _c("img", {
+              attrs: { src: "/theme/images/post_image.jpg", alt: "" }
+            }),
             _vm._v(" "),
             _c("figcaption", [_vm._v("Lorem Ipsum Dolor Sit Amet")])
           ]),
@@ -9129,7 +9108,9 @@ var staticRenderFns = [
           [
             _c("div", { staticClass: "author_image" }, [
               _c("div", [
-                _c("img", { attrs: { src: "images/author.jpg", alt: "" } })
+                _c("img", {
+                  attrs: { src: "/theme/images/author.jpg", alt: "" }
+                })
               ])
             ]),
             _vm._v(" "),
@@ -9179,7 +9160,7 @@ var staticRenderFns = [
               _c("img", {
                 staticClass: "card-img-top",
                 attrs: {
-                  src: "images/post_25.jpg",
+                  src: "/theme/images/post_25.jpg",
                   alt: "https://unsplash.com/@jakobowens1"
                 }
               }),
@@ -9204,7 +9185,7 @@ var staticRenderFns = [
               _c("img", {
                 staticClass: "card-img-top",
                 attrs: {
-                  src: "images/post_2.jpg",
+                  src: "/theme/images/post_2.jpg",
                   alt: "https://unsplash.com/@jakobowens1"
                 }
               }),
@@ -9229,7 +9210,7 @@ var staticRenderFns = [
               _c("img", {
                 staticClass: "card-img-top",
                 attrs: {
-                  src: "images/post_26.jpg",
+                  src: "/theme/images/post_26.jpg",
                   alt: "https://unsplash.com/@jakobowens1"
                 }
               }),
@@ -9323,7 +9304,7 @@ var staticRenderFns = [
                               _c("div", [
                                 _c("img", {
                                   attrs: {
-                                    src: "images/comment_author_1.jpg",
+                                    src: "/theme/images/comment_author_1.jpg",
                                     alt: ""
                                   }
                                 })
@@ -9374,7 +9355,8 @@ var staticRenderFns = [
                                     _c("div", [
                                       _c("img", {
                                         attrs: {
-                                          src: "images/comment_author_2.jpg",
+                                          src:
+                                            "/theme/images/comment_author_2.jpg",
                                           alt: ""
                                         }
                                       })
@@ -9429,7 +9411,7 @@ var staticRenderFns = [
                               _c("div", [
                                 _c("img", {
                                   attrs: {
-                                    src: "images/comment_author_1.jpg",
+                                    src: "/theme/images/comment_author_1.jpg",
                                     alt: ""
                                   }
                                 })
@@ -9508,415 +9490,11 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "sidebar_section_content" }, [
-      _c("div", { staticClass: "sidebar_slider_container" }, [
-        _c(
-          "div",
-          { staticClass: "owl-carousel owl-theme sidebar_slider_top" },
-          [
-            _c("div", { staticClass: "owl-item" }, [
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "owl-item" }, [
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "owl-item" }, [
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "side_post" }, [
-                _c("a", { attrs: { href: "post.html" } }, [
-                  _c(
-                    "div",
-                    {
-                      staticClass:
-                        "d-flex flex-row align-items-xl-center align-items-start justify-content-start"
-                    },
-                    [
-                      _c("div", { staticClass: "side_post_image" }, [
-                        _c("div", [
-                          _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
-                          })
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "side_post_content" }, [
-                        _c("div", { staticClass: "side_post_title" }, [
-                          _vm._v("How Did van Gogh’s Turbulent Mind")
-                        ]),
-                        _vm._v(" "),
-                        _c("small", { staticClass: "post_meta" }, [
-                          _vm._v("Katy Liu"),
-                          _c("span", [_vm._v("Sep 29")])
-                        ])
-                      ])
-                    ]
-                  )
-                ])
-              ])
-            ])
-          ]
-        )
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
     return _c("div", { staticClass: "sidebar_section" }, [
       _c("div", { staticClass: "advertising" }, [
         _c("div", {
           staticClass: "advertising_background",
-          staticStyle: { "background-image": "url(images/post_17.jpg)" }
+          staticStyle: { "background-image": "url(/theme/images/post_17.jpg)" }
         }),
         _vm._v(" "),
         _c(
@@ -9982,7 +9560,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10014,7 +9592,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10046,7 +9624,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10078,7 +9656,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10112,7 +9690,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10144,7 +9722,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10176,7 +9754,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10208,7 +9786,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10242,7 +9820,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10274,7 +9852,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10306,7 +9884,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10338,7 +9916,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -10371,7 +9949,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "advertising_2" }, [
         _c("div", {
           staticClass: "advertising_background",
-          staticStyle: { "background-image": "url(images/post_18.jpg)" }
+          staticStyle: { "background-image": "url(/theme/images/post_18.jpg)" }
         }),
         _vm._v(" "),
         _c(
@@ -11246,7 +10824,7 @@ var staticRenderFns = [
         staticClass: "home_background parallax-window",
         attrs: {
           "data-parallax": "scroll",
-          "data-image-src": "images/category.jpg",
+          "data-image-src": "/theme/images/category.jpg",
           "data-speed": "0.8"
         }
       })
@@ -11361,7 +10939,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_10.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_10.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11410,7 +10988,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_15.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_15.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11437,7 +11015,7 @@ var staticRenderFns = [
                   _c("img", {
                     staticClass: "card-img-top",
                     attrs: {
-                      src: "images/post_13.jpg",
+                      src: "/theme/images/post_13.jpg",
                       alt: "https://unsplash.com/@jakobowens1"
                     }
                   }),
@@ -11469,7 +11047,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_11.jpg)"
+                      "background-image": "url(/theme/images/post_11.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11500,7 +11078,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_16.jpg)"
+                      "background-image": "url(/theme/images/post_16.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11527,7 +11105,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_14.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_14.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11603,7 +11181,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_12.jpg)"
+                      "background-image": "url(/theme/images/post_12.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11629,7 +11207,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_6.jpg)"
+                      "background-image": "url(/theme/images/post_6.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11655,7 +11233,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_19.jpg)"
+                      "background-image": "url(/theme/images/post_19.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11728,7 +11306,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_5.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_5.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11754,7 +11332,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_10.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_10.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11804,7 +11382,7 @@ var staticRenderFns = [
                   _c("img", {
                     staticClass: "card-img-top",
                     attrs: {
-                      src: "images/post_20.jpg",
+                      src: "/theme/images/post_20.jpg",
                       alt: "https://unsplash.com/@jakobowens1"
                     }
                   }),
@@ -11836,7 +11414,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_4.jpg)"
+                      "background-image": "url(/theme/images/post_4.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11867,7 +11445,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_21.jpg)"
+                      "background-image": "url(/theme/images/post_21.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11894,7 +11472,7 @@ var staticRenderFns = [
                 [
                   _c("img", {
                     staticClass: "card-img-top",
-                    attrs: { src: "images/post_22.jpg", alt: "" }
+                    attrs: { src: "/theme/images/post_22.jpg", alt: "" }
                   }),
                   _vm._v(" "),
                   _c("div", { staticClass: "card-body" }, [
@@ -11970,7 +11548,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_23.jpg)"
+                      "background-image": "url(/theme/images/post_23.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -11996,7 +11574,7 @@ var staticRenderFns = [
                   _c("div", {
                     staticClass: "card_background",
                     staticStyle: {
-                      "background-image": "url(images/post_24.jpg)"
+                      "background-image": "url(/theme/images/post_24.jpg)"
                     }
                   }),
                   _vm._v(" "),
@@ -12072,7 +11650,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12104,7 +11682,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12136,7 +11714,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12168,7 +11746,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12202,7 +11780,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12234,7 +11812,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12266,7 +11844,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12298,7 +11876,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12332,7 +11910,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12364,7 +11942,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12396,7 +11974,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12428,7 +12006,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/top_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/top_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12461,7 +12039,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "advertising" }, [
         _c("div", {
           staticClass: "advertising_background",
-          staticStyle: { "background-image": "url(images/post_17.jpg)" }
+          staticStyle: { "background-image": "url(/theme/images/post_17.jpg)" }
         }),
         _vm._v(" "),
         _c(
@@ -12527,7 +12105,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12559,7 +12137,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12591,7 +12169,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12623,7 +12201,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12657,7 +12235,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12689,7 +12267,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12721,7 +12299,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12753,7 +12331,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12787,7 +12365,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_1.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_1.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12819,7 +12397,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_2.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_2.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12851,7 +12429,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_3.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_3.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12883,7 +12461,7 @@ var staticRenderFns = [
                       _c("div", { staticClass: "side_post_image" }, [
                         _c("div", [
                           _c("img", {
-                            attrs: { src: "images/vid_4.jpg", alt: "" }
+                            attrs: { src: "/theme/images/vid_4.jpg", alt: "" }
                           })
                         ])
                       ]),
@@ -12916,7 +12494,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "advertising_2" }, [
         _c("div", {
           staticClass: "advertising_background",
-          staticStyle: { "background-image": "url(images/post_18.jpg)" }
+          staticStyle: { "background-image": "url(/theme/images/post_18.jpg)" }
         }),
         _vm._v(" "),
         _c(
@@ -27454,9 +27032,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Contact.vue?vue&type=template&id=4fb95116& */ "./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&");
+/* harmony import */ var _Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Contact.vue?vue&type=template&id=4fb95116&scoped=true& */ "./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true&");
 /* harmony import */ var _Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Contact.vue?vue&type=script&lang=js& */ "./resources/js/components/contact/Contact.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& */ "./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
 
 
 
@@ -27464,13 +27044,13 @@ __webpack_require__.r(__webpack_exports__);
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
   _Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
-  null,
+  "4fb95116",
   null
   
 )
@@ -27496,19 +27076,35 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&":
-/*!************************************************************************************!*\
-  !*** ./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116& ***!
-  \************************************************************************************/
+/***/ "./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&":
+/*!**************************************************************************************************************!*\
+  !*** ./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& ***!
+  \**************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/style-loader!../../../../node_modules/css-loader??ref--6-1!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--6-2!../../../../node_modules/vue-loader/lib??vue-loader-options!./Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=style&index=0&id=4fb95116&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_ref_6_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_6_2_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_style_index_0_id_4fb95116_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true& ***!
+  \************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Contact.vue?vue&type=template&id=4fb95116& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Contact.vue?vue&type=template&id=4fb95116&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/contact/Contact.vue?vue&type=template&id=4fb95116&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_4fb95116_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -28031,7 +27627,7 @@ var router = [{
   name: 'contact_page'
 }, {
   path: '/category/1',
-  component: ListPost,
+  component: _components_post_ListPost_vue__WEBPACK_IMPORTED_MODULE_5__["default"],
   name: 'detail_category_page'
 }, {
   path: '/post-detail/1',
@@ -28120,8 +27716,8 @@ function scrollBehavior(to, from, savedPosition) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/dev/Laravel/blog/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/dev/Laravel/blog/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\release\NewEdu\v-young\v-young\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\release\NewEdu\v-young\v-young\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

@@ -5,15 +5,24 @@
                 <div class="row">
                     <div class="col">
                         <div class="header_content d-flex flex-row align-items-center justify-content-start">
-                            <div class="logo"><a href="#">avision</a></div>
+                            <div class="logo"><a href="#">V-Young</a></div>
                             <nav class="main_nav">
                                 <ul>
-                                    <li class="active"><a href="index.html">Home</a></li>
+                                    <li class="active">
+                                        <router-link :to="{name:'home_page'}">Home</router-link>
+                                    </li>
                                     <li><a href="#">Fashion</a></li>
                                     <li><a href="#">Gadgets</a></li>
-                                    <li><a href="#">Lifestyle</a></li>
-                                    <li><a href="#">Video</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li>
+                                        <router-link :to="{name:'contact_page'}">Contact</router-link>
+                                    </li>
+                                    <li>
+                                        <router-link :to="{name:'detail_category_page'}">detail category</router-link>
+                                    </li>
+                                    <li>
+                                        <router-link :to="{name:'detail_post_page'}">detail post</router-link>
+                                    </li>
+                                    
                                 </ul>
                             </nav>
                             <div class="search_container ml-auto">

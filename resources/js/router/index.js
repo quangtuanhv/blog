@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../components/home/HomePage.vue'
 import Contact from '../components/contact/Contact.vue'
 import DetailPost from '../components/post/DetailPost.vue'
-import ListlPost from '../components/post/ListPost.vue'
+import ListPost from '../components/post/ListPost.vue'
 const router = [
     { path: '/', component: Home, name: 'home_page' },
     { path: '/contact', component: Contact, name: 'contact_page' }, 
