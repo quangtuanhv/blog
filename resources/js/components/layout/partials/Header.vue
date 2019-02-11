@@ -57,12 +57,18 @@
             </div>
             <nav class="menu_nav">
                 <ul class="menu_mm">
-                    <li class="menu_mm"><a href="index.html">home</a></li>
-                    <li class="menu_mm"><a href="#">Fashion</a></li>
-                    <li class="menu_mm"><a href="#">Gadgets</a></li>
-                    <li class="menu_mm"><a href="#">Lifestyle</a></li>
-                    <li class="menu_mm"><a href="#">Video</a></li>
-                    <li class="menu_mm"><a href="contact.html">Contact</a></li>
+                    <li class="menu_mm">
+                        <router-link :to="{name:'home_page'}">Home</router-link>
+                    </li>
+                    <li class="menu_mm">
+                        <router-link :to="{name:'detail_category_page'}">detail category</router-link>
+                    </li>
+                    <li class="menu_mm">
+                        <router-link :to="{name:'detail_post_page'}">detail post</router-link>
+                    </li>
+                    <li class="menu_mm">
+                        <router-link :to="{name:'contact_page'}">Contact</router-link>                        
+                    </li>
                 </ul>
             </nav>
         </div>

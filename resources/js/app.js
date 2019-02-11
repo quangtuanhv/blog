@@ -1,3 +1,4 @@
+require('./bootstrap.js');
 import Vue from 'vue'
 import routes from './router/index'
 import Master from './components/Master'

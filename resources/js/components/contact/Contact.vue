@@ -1,7 +1,7 @@
 <template>
 
    	<div class="home">
-	<div class="home_background parallax-window" data-parallax="scroll" data-image-src="theme/images/regular.jpg" data-speed="0.8"></div>
+	<div class="home_background parallax-window" ></div>
 		<div class="home_content">
 			<div class="container">
 				<div class="row">
@@ -26,19 +26,23 @@
 </template>
 <script>
 export default {
-
+	mounted() {
+		$('.parallax-window').parallax({
+            imageSrc: 'theme/images/regular.jpg',
+            speed:'0.8',
+        });
+	},
 }
 </script>
-<style scoped>
+<style scoped lang="scss">
 .home
 {
 	width: 100%;
 	height: 100vh;
-}
-
-.home_content
-{
-	position: relative;
-	max-width: 100%;
+	.home_content
+	{
+		position: relative;
+		max-width: 100%;
+	}
 }
 </style>

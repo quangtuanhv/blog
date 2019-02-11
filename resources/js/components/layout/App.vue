@@ -8,6 +8,7 @@
 <script>
 import HeaderDesktop from './partials/Header'
 import FooterDesktop from './partials/Footer'
+import $ from 'jquery'
 export default {
     components: {
         HeaderDesktop,
