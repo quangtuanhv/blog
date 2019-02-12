@@ -2565,8 +2565,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var vue_owl_carousel__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-owl-carousel */ "./node_modules/vue-owl-carousel/dist/vue-owl-carousel.js");
-/* harmony import */ var vue_owl_carousel__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(vue_owl_carousel__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var vue_owl_carousel__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue-owl-carousel */ "./node_modules/vue-owl-carousel/dist/vue-owl-carousel.js");
+/* harmony import */ var vue_owl_carousel__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(vue_owl_carousel__WEBPACK_IMPORTED_MODULE_1__);
 //
 //
 //
@@ -3195,7 +3195,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    carousel: vue_owl_carousel__WEBPACK_IMPORTED_MODULE_0___default.a
+    carousel: vue_owl_carousel__WEBPACK_IMPORTED_MODULE_1___default.a
   }
 });
 
@@ -58677,8 +58677,8 @@ function scrollBehavior(to, from, savedPosition) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\release\NewEdu\v-young\v-young\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\release\NewEdu\v-young\v-young\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/dev/Laravel/blog/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/dev/Laravel/blog/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

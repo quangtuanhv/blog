@@ -16,9 +16,6 @@
             <router-view></router-view>
         </div>
         <script src="{{mix('js/app.js')}}"></script>
-        <!-- <script src="{{mix('js/bootstrap.js')}}"></script> -->
-        <!-- <script src="{{asset('theme/plugins/OwlCarousel2-2.2.1/owl.carousel.js')}}"></script> -->
-        <!-- <script src="{{asset('theme/plugins/jquery.mb.YTPlayer-3.1.12/jquery.mb.YTPlayer.js')}}"></script> -->
         <script src="{{asset('theme/plugins/easing/easing.js')}}"></script>
         <script src="{{asset('theme/plugins/masonry/masonry.js')}}"></script>
         <script src="{{asset('theme/plugins/masonry/images_loaded.js')}}"></script>
